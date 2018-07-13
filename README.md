@@ -1,2 +1,2 @@
 # Ojek-Online
-create app like gojek using google API client
+create app ojek online using google API client
