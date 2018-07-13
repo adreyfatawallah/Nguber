@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ojek Online</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="profil">Profil</string>
+    <string name="history">History</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="asal">Asal :</string>
+    <string name="tujuan">Tujuan :</string>
+    <string name="judul_dialog">Judul Dialog</string>
+    <string name="tutup">Tutup</string>
+    <string name="name">Name</string>
+    <string name="vicinity">Vicinity</string>
+    <string name="pesan">Pesan</string>
+    <string name="idr_50_000">IDR 7.500</string>
+    <string name="_15_0_km">2.3 km</string>
+    <string name="to">Mampang Prapatan</string>
+    <string name="from">Jl. Duren Tiga Selatan</string>
+    <string name="data_tidak_ditemukan">Data tidak ditemukan</string>
+    <string name="gps_tidak_aktif_nsentuh_untuk_mengatifkan_gps">GPS tidak aktif\nSentuh untuk mengatifkan GPS</string>
+    <string name="lokasi_tidak_ditemukan">Lokasi tidak ditemukan</string>
+    <string name="harap_mengaktifkan_gps_untuk_mendapatkan_lokasi_anda">Harap mengaktifkan GPS untuk mendapatkan lokasi anda</string>
+    <string name="aktifkan_sekarang">Aktifkan sekarang..</string>
+    <string name="cari_ojek">Cari Ojek</string>
+    <string name="pilih_ojek">Pilih Ojek</string>
+    <string name="muh_adrey_fatawallah">Muh. Adrey Fatawallah</string>
+    <string name="_23_tahun">23 Tahun</string>
+    <string name="xeon_gt">Xeon GT | DD 1234 AB</string>
+    <string name="pilih">Pilih</string>
+</resources>
